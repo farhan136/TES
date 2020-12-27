@@ -2,3 +2,4 @@ Resolusi
 -Menguasai REACT JS dan NODE JS
 -Membuat aplikasi terbaik untuk membantu orang muslim di seluruh dunia
 -Menjual es kopi dan es non kopi
+-Menjadi Front End Developer
