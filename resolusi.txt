@@ -1,3 +1,4 @@
 Resolusi
 -Menguasai REACT JS dan NODE JS
 -Membuat aplikasi terbaik untuk membantu orang muslim di seluruh dunia
+-Menjadi Front End Developer
